@@ -1,0 +1,9 @@
+/Users/daniilsemenov/Desktop/C7_SmartCalc_v1.0-2/src/Scalc/CMakeFiles/1.dir
+/Users/daniilsemenov/Desktop/C7_SmartCalc_v1.0-2/src/Scalc/CMakeFiles/edit_cache.dir
+/Users/daniilsemenov/Desktop/C7_SmartCalc_v1.0-2/src/Scalc/CMakeFiles/rebuild_cache.dir
+/Users/daniilsemenov/Desktop/C7_SmartCalc_v1.0-2/src/Scalc/CMakeFiles/list_install_components.dir
+/Users/daniilsemenov/Desktop/C7_SmartCalc_v1.0-2/src/Scalc/CMakeFiles/install.dir
+/Users/daniilsemenov/Desktop/C7_SmartCalc_v1.0-2/src/Scalc/CMakeFiles/install/local.dir
+/Users/daniilsemenov/Desktop/C7_SmartCalc_v1.0-2/src/Scalc/CMakeFiles/install/strip.dir
+/Users/daniilsemenov/Desktop/C7_SmartCalc_v1.0-2/src/Scalc/CMakeFiles/1_autogen_timestamp_deps.dir
+/Users/daniilsemenov/Desktop/C7_SmartCalc_v1.0-2/src/Scalc/CMakeFiles/1_autogen.dir
