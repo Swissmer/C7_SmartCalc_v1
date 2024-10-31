@@ -21,8 +21,8 @@
 
 ## Example
 
-![image](./mics/images/1.png)
-![image](./mics/images/2.png)
+![image](./misc/images/1.png)
+![image](./misc/images/2.png)
 
 ## Support
 
