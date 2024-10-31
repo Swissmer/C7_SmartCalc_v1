@@ -21,8 +21,10 @@
 
 ## Example
 
-![image](./misc/images/1.png)
-![image](./misc/images/2.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="./misc/images/1.png" width="250">
+    <img src="./misc/images/2.png" width="250">
+</div>
 
 ## Support
 
